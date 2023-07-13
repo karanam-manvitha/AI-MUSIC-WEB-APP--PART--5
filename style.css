@@ -1,0 +1,58 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: rgb(206, 16, 165);
+}
+
+.note
+{
+    font-size: 15px; 
+    color: rgb(187, 29, 103);
+}
+
+body
+{
+    background-size: cover;
+}
+
+#song_name
+{
+    font-size: 20px;
+    color:rgb(130, 18, 221);
+}
+
+.canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 600px;
+    height: 500px;
+}
+
+.play1_button
+{
+    width: 130px;
+    font-size: 25px;
+    float: left;
+    color: green;
+}
+
+.play2_button
+{
+    width: 130px;
+    font-size: 25px;
+    float: left;
+    color:orange;
+    float: right;
+}
+
+.stop_button
+{
+    width: 130px;
+    font-size: 25px;
+    float: right;
+    color: orange;
+    float: left;
+}
